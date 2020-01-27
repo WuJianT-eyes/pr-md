@@ -1,1 +1,11 @@
 ﻿git 是目前世界上最先进的分布式版本控制软件。
+git is a free software.
+1.执行初始化命令
+git init 
+2.管理目录下的文件状态
+git status
+3.管理指定文件
+git add 文件名
+git add .
+4.生成版本
+git commit -m '描述信息'
