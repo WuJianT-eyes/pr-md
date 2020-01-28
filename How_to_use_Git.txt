@@ -9,3 +9,5 @@ git add 文件名
 git add .
 4.生成版本
 git commit -m '描述信息'
+
+bug修复测试
